@@ -6,3 +6,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] activate github students pack
+- [ ] learn data science through datacamp
+- [ ] pass their certification
+- [ ] build data science projects
+- [ ] become interview ready
